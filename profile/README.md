@@ -2,8 +2,20 @@
 
 ## We are TGR Group
 
-### 🙋‍♀️ A short introduction - what is your organization all about?
-### 🌈 Contribution guidelines - how can the community get involved?
-### 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-### 🍿 Fun facts - what does your team eat for breakfast?
-### 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## 🙋‍♀️ What is TGR Group?
+TGR Groupは群馬県高崎市内にサーバーをおいてブログや、Discord Bot(予定)などのサービスを提供しています。
+
+### 🌈 Services
+
+ - [TGR Blog](https://blog.tgrgroup.jp)
+ - [HomePage](https://tgrgroup.jp)
+ - [DiscordBot]()
+
+### 👩‍💻 Members
+Loading...
+
+### 🍿 Representative
+[スター (湯浅 大雅)](https://twitter.com/starprivate55)
+
+### 🧙 Join US
+現在、新規申し込みは受け付けておりません。
