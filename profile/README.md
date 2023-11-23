@@ -1,5 +1,4 @@
 
-
 <div align="center">
   <h1>Hello World !</h1>
   <p>TGR Group is a community.</p>
@@ -19,7 +18,7 @@ These services are currently open to the public.
   A ***free*** and ***high-performance*** URL shortening service. Adopting a safe and reliable **JP domain**.
 
 - [SmartAid (Discord Bot)](https://mwindows99.com/discordbot/)  
-  A ***free** and ***multifunctional*** Discord bot. Features include server and user analysis, music playback, audio recording, etc.
+  A ***free*** and ***multifunctional*** Discord bot. Features include server and user analysis, music playback, audio recording, etc.
 
 <div align="right">
   <a href="https://status.tgrgroup.jp">Service Operation Status</a>
